@@ -1,0 +1,27 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34202.233
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GymmrAndroid", "GymmrAndroid.csproj", "{BBA1AB4F-657E-4D45-9978-85C6AD505955}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BBA1AB4F-657E-4D45-9978-85C6AD505955}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BBA1AB4F-657E-4D45-9978-85C6AD505955}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BBA1AB4F-657E-4D45-9978-85C6AD505955}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{BBA1AB4F-657E-4D45-9978-85C6AD505955}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BBA1AB4F-657E-4D45-9978-85C6AD505955}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BBA1AB4F-657E-4D45-9978-85C6AD505955}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {568F804A-B325-4DB0-9C74-F6C5AA57943E}
+	EndGlobalSection
+EndGlobal
